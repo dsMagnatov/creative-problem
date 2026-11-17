@@ -1,0 +1,6 @@
+{
+  "name": "Scroll Video",
+  "description": "A minimalist website containing only a video that responds to global page scrolling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
